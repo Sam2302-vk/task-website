@@ -1,0 +1,13 @@
+.coloumn{
+    display: flex;
+    
+}
+.row{
+    display: flex;
+    padding: 5px;
+}
+img{
+    padding:20px;
+    width:150px;
+    height: 20vh;
+}

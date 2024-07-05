@@ -1,0 +1,19 @@
+table{
+    border: 3px solid black;
+    text-align: center;
+    position: relative;
+    left:30%;
+    top:150px;
+    
+}
+th{
+    border: 3px solid black;
+}
+td{
+    border: 3px solid black;
+}
+table,td,th,tr{
+    border-collapse: collapse;
+    width: fit-content;
+    padding: 20px;
+}
